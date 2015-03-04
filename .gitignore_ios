@@ -1,0 +1,13 @@
+*.dat
+*.db
+*.hmap
+*.DS_Store
+*.keep
+*.keep.*
+*.lck
+*.orig
+xcuserdata/
+build/
+project.xcworkspace/
+Kernel/IPhone/Library/MicroStrategyMobileSDK.framework/Headers/
+Mobile_Samples/
